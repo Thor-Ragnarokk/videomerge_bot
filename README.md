@@ -11,5 +11,6 @@ Telegram bot made in Python to merge videos.
 
 To run you need an Telegram Bot API token in an `.env` file in the format:
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Thor-Ragnarokk/videomerge_bot)
 API_TOKEN=<TELEGRAM_TOKEN>
 ```
